@@ -3,6 +3,8 @@
  AND [RESHADE](https://reshade.me)﻿ WITH ADDON SUPPORT
  (scroll to the bottom of the page to find the addon support download)
 
+This package includes 2 of my shaders, the V's Reimagined 2.0 shader and the V's VHS shader
+
 This shader uses RTGI (Ray Traced Global Illumination) and other effects to achieve photorealism
 ﻿If you have any questions, please ask
 Also, the money does not go to me nor is it my choice to make it paid or not, if you have any questions about the RTGI shader, please ask the author.
