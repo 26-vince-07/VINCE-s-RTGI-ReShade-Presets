@@ -3,22 +3,9 @@
  AND [RESHADE](https://reshade.me)﻿ WITH ADDON SUPPORT
  (scroll to the bottom of the page to find the addon support download)
 
-
 This shader uses RTGI (Ray Traced Global Illumination) and other effects to achieve photorealism
 ﻿If you have any questions, please ask
 Also, the money does not go to me nor is it my choice to make it paid or not, if you have any questions about the RTGI shader, please ask the author.
-
-Installation:
-1. Install ReShade﻿ with addon support
-2. Download the RTGI﻿ shader file
-3. Open up the "ReShade GI Beta.zip" file
-4. Drag and drop the contents into Subnautica's ReShade folder (Steam\steamapps\common\Subnautica\reshade-shaders)
-
-ReShade Settings (IMPORTANT):
-1. In the game, click on the "Home" button, a menu should pop up.
-2. In the top left of the menu, click on "Add-ons"
-3. Enable the following settings:
-<img width="554" height="369" alt="1302-1689030243-2090986292" src="https://github.com/user-attachments/assets/1f6bfd25-c3dc-4072-ae6d-118bb545efff" />
 
 Gallery:
 <img width="3440" height="1440" alt="20260129140412_1" src="https://github.com/user-attachments/assets/be2f7233-8187-4e77-93b6-4175b61c5ce9" />
