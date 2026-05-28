@@ -27,3 +27,5 @@ Gallery:
 <img width="3440" height="1440" alt="20260127181540_1" src="https://github.com/user-attachments/assets/e2c2d48c-e96e-4477-8d8b-ab9ae9607af6" />
 <img width="3440" height="1440" alt="20260127093105_1" src="https://github.com/user-attachments/assets/3893fd79-dc27-4f31-8de0-4f042ac59dfb" />
 <img width="3440" height="1440" alt="20260127092638_1" src="https://github.com/user-attachments/assets/c6209e7c-7bbe-4b35-b2ff-e2039e31c42e" />
+
+This is the official and only source for my Subnautica RTGI preset. If you found this file elsewhere, please ensure you are using the latest version from this repository.
