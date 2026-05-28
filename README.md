@@ -1,6 +1,6 @@
 # VINCE-s-RTGI-ReShade-Presets
-﻿THIS SHADER REQUIRES [MARTYMCFLY'S RTGI SHADER]﻿https://www.patreon.com/cw/mcflypg?utm_source=website&utm_medium=ppbutton0 FROM HIS PATREON 
-AND [RESHADE]https://reshade.me﻿ WITH ADDON SUPPORT (scroll to the bottom of the page to find the addon support download)
+﻿THIS SHADER REQUIRES [MARTYMCFLY'S RTGI SHADER](﻿https://www.patreon.com/cw/mcflypg?utm_source=website&utm_medium=ppbutton0) FROM HIS PATREON 
+AND [RESHADE](https://reshade.me)﻿ WITH ADDON SUPPORT (scroll to the bottom of the page to find the addon support download)
 
 
 This shader uses RTGI (Ray Traced Global Illumination) and other effects to achieve photorealism
