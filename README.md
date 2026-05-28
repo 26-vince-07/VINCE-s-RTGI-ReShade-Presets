@@ -1,5 +1,5 @@
 # VINCE-s-RTGI-ReShade-Presets
-﻿THIS SHADER REQUIRES [MARTYMCFLY'S RTGI SHADER](﻿https://www.patreon.com/cw/mcflypg?utm_source=website&utm_medium=ppbutton0) FROM HIS PATREON 
+﻿THIS SHADER REQUIRES [MARTYMCFLY'S RTGI SHADER](https://www.martysmods.com/home/) FROM HIS PATREON 
 AND [RESHADE](https://reshade.me)﻿ WITH ADDON SUPPORT (scroll to the bottom of the page to find the addon support download)
 
 
@@ -19,7 +19,7 @@ ReShade Settings (IMPORTANT):
 3. Enable the following settings:
 <img width="554" height="369" alt="1302-1689030243-2090986292" src="https://github.com/user-attachments/assets/1f6bfd25-c3dc-4072-ae6d-118bb545efff" />
 
-
+Gallery:
 <img width="3440" height="1440" alt="20260129140412_1" src="https://github.com/user-attachments/assets/be2f7233-8187-4e77-93b6-4175b61c5ce9" />
 <img width="3440" height="1440" alt="20260130022839_1" src="https://github.com/user-attachments/assets/aba2fac3-1226-4d1e-9e0b-1beca7aaf857" />
 <img width="3440" height="1440" alt="20260127174454_1" src="https://github.com/user-attachments/assets/0b1c4b59-29c9-4f82-a2b6-02da92a11ced" />
